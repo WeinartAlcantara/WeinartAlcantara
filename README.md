@@ -21,6 +21,6 @@ Collaboration Opportunities 💞️
 
 How to Reach Me 📫
 -You can contact me via email at weinartalcantara@gmail.com.
--Feel free to connect with me on LinkedIn Your LinkedIn Profile.
+-Feel free to connect with me on LinkedIn. https://www.linkedin.com/in/weinart-alcantara-362536160
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't hesitate to get in touch if you have any questions or ideas for collaboration. Happy coding! 🚀
