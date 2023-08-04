@@ -1,7 +1,5 @@
 Welcome to WeinartAlcantara's GitHub Profile! 👋
 
--My GitHub username is @WeinartAlcantara.
-
 -I'm passionate about technology and enjoy exploring various programming languages, frameworks, and tools.
 Currently, I am focusing on honing my skills in software development and continuously learning new things in the tech world.
 Interests
